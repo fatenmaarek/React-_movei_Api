@@ -1,0 +1,14 @@
+/* ListMovies.css */
+
+.movie-list-container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+  }
+  
+  .movie-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  

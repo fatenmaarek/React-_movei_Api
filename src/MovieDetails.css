@@ -1,0 +1,23 @@
+.MovieDetailsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.MovieDetailsContent {
+  margin-left: 20px; 
+}
+
+.MovieDetailsContent{
+  margin-top: 2rem;
+  width:40rem; 
+  text-align: center;
+}
+
+.MovieDetailsContainer img {margin-left: 2rem;
+  width:30rem;
+  height: 26rem; 
+}
+
+  

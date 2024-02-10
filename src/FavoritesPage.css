@@ -1,0 +1,28 @@
+
+.favorite-page {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+  }
+  
+  .favorite-page > div {
+    width: 12rem; 
+    margin: 20px;
+    text-align: center;
+    height: 29rem;
+    overflow: hidden;
+  }
+  
+  .favorite-page img {
+    max-width: 75%;
+  }
+  
+  .favorite-page p {
+    margin-bottom: 10px;
+  }
+  
+  .favorite-page h2 {
+    margin-top: 0;
+    font-size: 1.2rem;
+  }
+  
